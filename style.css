@@ -1,0 +1,39 @@
+body{
+	background-image: url(1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding-top: 50px;
+	font-family: 'Questrial', sans-serif; 
+
+
+
+
+
+}
+h2, h3{
+	color: #c7c7c5;
+	text-decoration: underline;
+}
+
+.size , .size2{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	border: 1px solid darkgreen;
+	cursor: pointer;
+
+	
+}
+h5{
+	text-align: center;
+	color: #c7c7c5;
+}
+h1{
+	display: flex;
+	color:#c7c7c5;
+
+}
